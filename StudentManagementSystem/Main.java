@@ -129,6 +129,7 @@ static void loadStudents() {
         }
     }
 
+    // Search for a student using Student ID
     static void searchStudent() {
         System.out.println("\n========== SEARCH STUDENT ==========");
 
