@@ -18,6 +18,14 @@ Student Management System is a simple menu-driven Java console application devel
 - File Handling
 - Serialization
 
+## Learning Outcomes
+- Learned Java programming fundamentals.
+- Improved understanding of Object-Oriented Programming (OOP).
+- Practiced ArrayList and Java Collections.
+- Learned file handling and serialization.
+- Improved problem-solving and debugging skills.
+- Practiced Git and GitHub for version control.
+
 ## Project Structure
 ```text
 StudentManagementSystem-Project/
